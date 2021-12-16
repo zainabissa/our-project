@@ -1,2 +1,2 @@
 # our-project
-this is pur project
+this is our project
